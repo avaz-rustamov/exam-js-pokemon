@@ -207,6 +207,10 @@ img {
   padding: 0 20px;
 }
 
+.pokemon__heading {
+  font-weight: bold;
+}
+
 .pokemons__list {
   padding-left: 0;
   list-style: none;
@@ -217,8 +221,4 @@ img {
   background-color: #fff;
   box-shadow: rgba(75, 101, 135, 0.17) 0px -23px 25px 0px inset, rgba(75, 101, 135, 0.15) 0px -36px 30px 0px inset, rgba(75, 101, 135, 0.1) 0px -79px 40px 0px inset, rgba(75, 101, 135, 0.06) 0px 2px 1px, rgba(75, 101, 135, 0.09) 0px 4px 2px, rgba(75, 101, 135, 0.09) 0px 8px 4px, rgba(75, 101, 135, 0.09) 0px 16px 8px, rgba(75, 101, 135, 0.09) 0px 32px 16px;
   width: 29%;
-}
-
-.spawn__time {
-  margin-bottom: 16px;
 }/*# sourceMappingURL=main.css.map */
