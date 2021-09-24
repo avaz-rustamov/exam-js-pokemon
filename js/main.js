@@ -36,7 +36,7 @@ for (pokemon of pokemons) {
 
 
 
-  newLi.setAttribute('class', 'pokemons__item m-4 rounded p-2');
+  newLi.setAttribute('class', 'pokemons__item col-4 m-4 rounded p-2');
   newHeading.setAttribute('class', 'pokemons__heading');
   newImage.setAttribute('src', pokemon.img);
   newImage.setAttribute('alt', pokemon.name + " Image");
